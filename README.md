@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sdevesh890
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me sdevesh890@gmail.com
